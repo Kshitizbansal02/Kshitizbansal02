@@ -9,10 +9,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitiz-bansal-7a0015288/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshitizbansal02)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bansal.kshitiz10@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kshitizbansal02&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)](https://github.com/Kshitizbansal02)
+<a href="https://www.linkedin.com/in/kshitiz-bansal-7a0015288/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Kshitizbansal02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:bansal.kshitiz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<img src="https://komarev.com/ghpvc/?username=Kshitizbansal02&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -56,59 +56,59 @@ class KshitizBansal:
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<h3 align="center">Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3 align="center">AI / ML / Deep Learning</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-### AI / ML / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+<h3 align="center">Frameworks & Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
+<p align="center">
 <a href="https://github.com/Kshitizbansal02/legal-document-simplifier-nlp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitizbansal02&repo=legal-document-simplifier-nlp&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Kshitizbansal02/-precisionbench-cnn">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitizbansal02&repo=-precisionbench-cnn&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
+</p>
+<p align="center">
 <a href="https://github.com/Kshitizbansal02/EduPulse-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitizbansal02&repo=EduPulse-AI&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Kshitizbansal02/ETL-Machine-Learning-Integration">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kshitizbansal02&repo=ETL-Machine-Learning-Integration&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
-
-</div>
-
-<br/>
+</p>
 
 <details>
 <summary><b>📂 Project Deep Dives (click to expand)</b></summary>
@@ -128,48 +128,38 @@ class KshitizBansal:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kshitizbansal02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitizbansal02&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" />
+</p>
 
-<br/><br/>
-
-<!-- Streak Stats -->
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitizbansal02&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
 
-<br/><br/>
-
-<!-- Activity Graph -->
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kshitizbansal02&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kshitizbansal02&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kshitizbansal02/Kshitizbansal02/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kshitizbansal02/Kshitizbansal02/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kshitizbansal02/Kshitizbansal02/output/github-snake-dark.svg" />
 </picture>
-
-> 💡 *Set up the [snake workflow](https://github.com/Platane/snk) in your profile repo to see the contribution snake animation!*
-
-</div>
+</p>
 
 ---
 
@@ -187,8 +177,7 @@ class KshitizBansal:
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/kshitiz-bansal-7a0015288/">
   <img src="https://img.shields.io/badge/-Kshitiz%20Bansal-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" height="30"/>
 </a>
@@ -198,16 +187,15 @@ class KshitizBansal:
 <a href="mailto:bansal.kshitiz10@gmail.com">
   <img src="https://img.shields.io/badge/-bansal.kshitiz10@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="30"/>
 </a>
+</p>
 
-<br/><br/>
+<p align="center">
+💬 <b>Open to collaborations on AI/ML projects, open-source contributions, and research opportunities!</b>
+</p>
 
-💬 **Open to collaborations on AI/ML projects, open-source contributions, and research opportunities!**
-
-<br/>
-
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
-
-</div>
+</p>
 
 ---
 
@@ -219,4 +207,3 @@ class KshitizBansal:
 <sub>⭐ From <a href="https://github.com/Kshitizbansal02">Kshitizbansal02</a> — If you found my work interesting, consider giving a star!</sub>
 
 </div>
-
